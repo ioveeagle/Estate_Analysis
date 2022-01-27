@@ -14,7 +14,7 @@ https://plvr.land.moi.gov.tw/DownloadOpenData
 
  ## Data Preprcessing
 
- **NearBy estate  Data pre-processing.ipynb**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jbTUWmZQKcX9Bi3Z1kogu3EIuGUjjMJG?usp=sharing]
 
  ### 查經緯度
 
@@ -32,7 +32,7 @@ https://plvr.land.moi.gov.tw/DownloadOpenData
 
  ### 將類別型資料轉成數值型資料
 
-    Example
+Example
 
     {'transaction_sign': {'num': 2, '房地(土地+建物)': 1, '房地(土地+建物)+車位': 2}}
 
@@ -40,7 +40,7 @@ https://plvr.land.moi.gov.tw/DownloadOpenData
 
 ## Search
 
- **NearBy estate.ipynb**
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZCkgZ3bVR2xlqSDQj9IIAvaMqO0sTDcr?usp=sharing]
 
 ### 周圍房屋資料分布
 
