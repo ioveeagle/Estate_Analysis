@@ -14,7 +14,7 @@ https://plvr.land.moi.gov.tw/DownloadOpenData
 
  ## Data Preprcessing
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jbTUWmZQKcX9Bi3Z1kogu3EIuGUjjMJG?usp=sharing]
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jbTUWmZQKcX9Bi3Z1kogu3EIuGUjjMJG?usp=sharing)
 
  ### 查經緯度
 
@@ -40,7 +40,7 @@ Example
 
 ## Search
 
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZCkgZ3bVR2xlqSDQj9IIAvaMqO0sTDcr?usp=sharing]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZCkgZ3bVR2xlqSDQj9IIAvaMqO0sTDcr?usp=sharing)
 
 ### 周圍房屋資料分布
 
