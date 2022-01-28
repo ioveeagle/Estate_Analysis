@@ -33,6 +33,8 @@ https://plvr.land.moi.gov.tw/DownloadOpenData
  ```
 
  ### 將類別型資料轉成數值型資料
+ 
+ 方便未來做成dataset訓練模型
 
 Example
 
